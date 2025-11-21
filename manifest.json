@@ -1,9 +1,9 @@
 {
-  "latest_version": "v1.1.2",
-  "download_url": "https://github.com/Fliight-Engineering/sony-cm4-firmware/releases/download/v1.1.2/sony-cm4-v1.1.2.rauc",
-  "download_size_bytes": 182303377,
-  "sha256_checksum": "14108249381059ee78f69f69ef331ed15a28354639ff461aa371eef3c117623f",
-  "release_notes_url": "https://github.com/Fliight-Engineering/sony-cm4-firmware/releases/tag/v1.1.2",
+  "latest_version": "v1.2.0",
+  "download_url": "https://github.com/Fliight-Engineering/sony-cm4-firmware/releases/download/v1.2.0/sony-cm4-v1.2.0.rauc",
+  "download_size_bytes": 182307473,
+  "sha256_checksum": "27cb40ad9797c4052ec4e85ed463ce758c160eeaab0bbaea40f95557dc87c1f9",
+  "release_notes_url": "https://github.com/Fliight-Engineering/sony-cm4-firmware/releases/tag/v1.2.0",
   "minimum_version": "v0.8.0",
   "compatibility": {
     "hardware": "sony-cm4",
